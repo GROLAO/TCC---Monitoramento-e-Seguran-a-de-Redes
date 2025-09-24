@@ -24,7 +24,7 @@ Interface gráfica responsiva com navegação por abas (monitoramento em tempo r
 
 🔹 Tecnologias Utilizadas
 
-Python 3.x
+Python 3.10
 
 Tkinter → interface gráfica
 
